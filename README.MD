@@ -15,3 +15,5 @@ THIS IS A BASIC NODE JS PROJECT TEMPLATE , WHICH IS PREPARED BY SOME COMMON FOLL
   -"services"  -> contains the buisness logic and interact with repositories for data from database
 
   -"utilis" -> contains helper methods, error classes etc;
+
+go inside the src folder :  npx sequelize init -> you will get migration and seeder folders and also a config folder
